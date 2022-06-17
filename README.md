@@ -1,4 +1,4 @@
-# Team025-SampleProject
+# Team025-Bright Future
 This is a template for CS411 project repository. Please make sure that your title follows the convention: [TeamID]-[YourTeamName]. All TeamID should have a three digit coding. You should also make sure that your url for this repository is [su22-cs411-team000-teamname.git] so TAs can correctly clone your repository and keep them up-to-date.
 
 Once you setup your project, please remember to submit your team formation to the team form.
