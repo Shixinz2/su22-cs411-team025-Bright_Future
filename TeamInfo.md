@@ -1,4 +1,4 @@
-# TeamID-SampleProject Team
+# Team025-Bright Future
 
 ## Basic Information
 
