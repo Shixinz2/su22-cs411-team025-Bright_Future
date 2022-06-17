@@ -8,12 +8,12 @@
 | TeamName    |      Bright Future     |
 | Captain     |        Ziwei Liu       |
 | Captain     |  ziweil4@illinois.edu  |
-| Member1     |   FirstName LastName   |
-| Member1     |      Member2-Email     |
-| Member2     |   FirstName LastName   |
-| Member2     |      Member3-Email     |
-| Member3     |   FirstName LastName   |
-| Member3     |      Member4-Email     |
+| Member1     |      Shuyuan Chen      |
+| Member1     |   sc109@illinois.edu   |
+| Member2     |       Yiifan Cao       |
+| Member2     |  yifanc23@illinois.edu |
+| Member3     |        Jingbo Li       |
+| Member3     |   jingbo2@illinois.edu |
 
 ## Project Information
 
