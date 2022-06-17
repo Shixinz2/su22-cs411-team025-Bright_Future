@@ -10,7 +10,7 @@
 | Captain     |  ziweil4@illinois.edu  |
 | Member1     |      Shuyuan Chen      |
 | Member1     |   sc109@illinois.edu   |
-| Member2     |       Yiifan Cao       |
+| Member2     |       Yifan Cao       |
 | Member2     |  yifanc23@illinois.edu |
 | Member3     |        Jingbo Li       |
 | Member3     |   jingbo2@illinois.edu |
